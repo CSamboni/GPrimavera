@@ -1,0 +1,11 @@
+/*Para cuerpo, mensajes y tarjetas*/
+@import url('https://fonts.googleapis.com/css?family=Poiret+One');
+/*font-family: 'Poiret One', cursive*/
+/*Para títilos y textos importantes*/
+@import url('https://fonts.googleapis.com/css?family=Concert+One');
+/*font-family: 'Concert One, cursive*/
+
+body, html {
+  margin: 0;
+  padding: 0;
+}
